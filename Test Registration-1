@@ -37,7 +37,7 @@
         <option value="">Syria</option>
         <option value="">Italy</option>
       </select>
-      <textarea name="textarea" id="">Your Full Address</textarea>
+      <input type="text" placeholder="Your Full Address"></textarea>
       </div>
       <p class="terms">
         <label>
